@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fa\u002F[agent_slug]","\u002Fcases\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
