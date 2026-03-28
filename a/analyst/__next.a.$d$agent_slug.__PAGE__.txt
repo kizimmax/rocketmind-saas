@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[99917,["/rocketmind-saas/_next/static/chunks/a50e8e4a4c804976.js","/rocketmind-saas/_next/static/chunks/8cdbeaa43396ee6a.js","/rocketmind-saas/_next/static/chunks/d766e292d793473e.js"],"default"]
+2:I[99917,["/rocketmind-saas/_next/static/chunks/a50e8e4a4c804976.js","/rocketmind-saas/_next/static/chunks/e72b87ac2df894d0.js","/rocketmind-saas/_next/static/chunks/d766e292d793473e.js"],"default"]
 3:I[97367,["/rocketmind-saas/_next/static/chunks/ff1a16fafef87110.js","/rocketmind-saas/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"3R5QK5sjX2tC9CUWrTFQw","rsc":["$","$1","c",{"children":[["$","$L2",null,{"agentSlug":"analyst"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/d766e292d793473e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"8X-Isa_47882T2ximzrA_","rsc":["$","$1","c",{"children":[["$","$L2",null,{"agentSlug":"analyst"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/d766e292d793473e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
