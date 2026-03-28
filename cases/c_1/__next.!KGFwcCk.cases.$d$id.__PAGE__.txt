@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[32798,["/rocketmind-saas/_next/static/chunks/a50e8e4a4c804976.js","/rocketmind-saas/_next/static/chunks/e72b87ac2df894d0.js","/rocketmind-saas/_next/static/chunks/d0d95a3dda68b339.js","/rocketmind-saas/_next/static/chunks/17e9e620e91afc1f.js"],"default"]
+2:I[32798,["/rocketmind-saas/_next/static/chunks/a50e8e4a4c804976.js","/rocketmind-saas/_next/static/chunks/e72b87ac2df894d0.js","/rocketmind-saas/_next/static/chunks/d77f95a677fcbba8.js","/rocketmind-saas/_next/static/chunks/17e9e620e91afc1f.js"],"default"]
 3:I[97367,["/rocketmind-saas/_next/static/chunks/ff1a16fafef87110.js","/rocketmind-saas/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"HhkQZDlYL4R1QTjyVP4es","rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"c_1"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/17e9e620e91afc1f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"feODvRzqhrCxX6tF3Db9c","rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"c_1"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/17e9e620e91afc1f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
