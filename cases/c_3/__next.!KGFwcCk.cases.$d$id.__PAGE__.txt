@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[32798,["/rocketmind-saas/_next/static/chunks/a50e8e4a4c804976.js","/rocketmind-saas/_next/static/chunks/e72b87ac2df894d0.js","/rocketmind-saas/_next/static/chunks/8805175295556115.js","/rocketmind-saas/_next/static/chunks/e0164cbf597fef89.js"],"default"]
+2:I[32798,["/rocketmind-saas/_next/static/chunks/a50e8e4a4c804976.js","/rocketmind-saas/_next/static/chunks/e72b87ac2df894d0.js","/rocketmind-saas/_next/static/chunks/8805175295556115.js","/rocketmind-saas/_next/static/chunks/79d051f35716fcda.js"],"default"]
 3:I[97367,["/rocketmind-saas/_next/static/chunks/ff1a16fafef87110.js","/rocketmind-saas/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"hdtoCkWGXNb7K2OpcuMMt","rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"c_3"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/e0164cbf597fef89.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"Kxv3MjY6vkg5hEvqTBiQE","rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"c_3"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/79d051f35716fcda.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
