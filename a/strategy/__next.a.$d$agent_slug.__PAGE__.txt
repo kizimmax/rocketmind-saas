@@ -2,5 +2,5 @@
 2:I[99917,["/rocketmind-saas/_next/static/chunks/a50e8e4a4c804976.js","/rocketmind-saas/_next/static/chunks/4395dfe0e3c8c67a.js","/rocketmind-saas/_next/static/chunks/d766e292d793473e.js"],"default"]
 3:I[97367,["/rocketmind-saas/_next/static/chunks/ff1a16fafef87110.js","/rocketmind-saas/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"astJXIqEkPCmMWEN60FDi","rsc":["$","$1","c",{"children":[["$","$L2",null,{"agentSlug":"strategy"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/d766e292d793473e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"4JlfbLNLd4MQt__Zx4CWl","rsc":["$","$1","c",{"children":[["$","$L2",null,{"agentSlug":"strategy"}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/d766e292d793473e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
