@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[93313,["/rocketmind-saas/_next/static/chunks/60a0a1d41b2c9660.js","/rocketmind-saas/_next/static/chunks/660a19920faec0c3.js","/rocketmind-saas/_next/static/chunks/254fb1470161df4a.js","/rocketmind-saas/_next/static/chunks/2648cf386e2c808b.js","/rocketmind-saas/_next/static/chunks/f8560448c9d66de8.js","/rocketmind-saas/_next/static/chunks/12891f0f35c990d7.js"],"default"]
+4:I[97367,["/rocketmind-saas/_next/static/chunks/ff1a16fafef87110.js","/rocketmind-saas/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+0:{"buildId":"wSTbEpwt1Isldz6jK9G5d","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/rocketmind-saas/_next/static/chunks/12891f0f35c990d7.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
